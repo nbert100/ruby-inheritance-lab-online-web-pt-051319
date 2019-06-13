@@ -1,3 +1,3 @@
 class User 
-  attr
+  attr_
 end
