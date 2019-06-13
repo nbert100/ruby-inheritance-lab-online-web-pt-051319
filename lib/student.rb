@@ -8,7 +8,7 @@ def initialize
   end
   
   def learn(string)
-  self.knowledge << string
+  @knowledge << string
     
   end
 end
