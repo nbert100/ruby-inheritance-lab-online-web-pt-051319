@@ -7,7 +7,8 @@ def initialize
     @knowledge = []
   end
   
-  def learn
+  def learn(string)
+  self.knowledge << string
     
   end
 end
